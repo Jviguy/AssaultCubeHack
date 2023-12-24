@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/Debug
+/.vs/AssaultCubeHack
+/x64/Debug
